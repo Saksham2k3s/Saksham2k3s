@@ -2,7 +2,7 @@
 
 👀 I’m passionate about mastering front-end technologies
 
-🌱 Currently diving deep into the world of Redux
+🌱 Currently diving deep into the world of Next.js
 
 💞️ Seeking exciting opportunities to collaborate on open-source projects
 
