@@ -1,23 +1,3 @@
-👋 Hi, I’m @Saksham2k3s
-
-👀 I’m passionate about mastering front-end technologies
-
-🌱 Currently diving deep into the world of Next.js
-
-💞️ Seeking exciting opportunities to collaborate on open-source projects
-
-📫 Let’s connect! Reach me via email at sakshamshrivastav58@gmail.com
-
-😄 Pronouns: He/Him
-
-
-<!---
-Saksham2k3s/Saksham2k3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saksham2k3s&exclude_days=Sat&type=png)](https://git.io/streak-stats)
-
 <h1 align="center">Hi 👋, I'm Saksham</h1>
 <h3 align="center">A passionate frontend developer from Gwalior</h3>
 
@@ -25,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham2k3s" alt="saksham2k3s" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sakshamshr4520" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamshr4520?logo=twitter&style=for-the-badge" alt="sakshamshr4520" /></a> </p>
 
 - 🔭 I’m currently working on **Mistrymessage**
 
@@ -37,9 +17,15 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **sakshamshrivastav58@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sakshamshrivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshamshrivastava/" height="30" width="40" /></a>
+<a href="https://dev.to/saksham_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saksham_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/sakshamshr4520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshamshr4520" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakshamshrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshamshrivastava" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/saksham_2k3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saksham_2k3/" height="30" width="40" /></a>
 </p>
 
@@ -51,4 +37,3 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham2k3s&show_icons=true&locale=en" alt="saksham2k3s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham2k3s&" alt="saksham2k3s" /></p>
-
