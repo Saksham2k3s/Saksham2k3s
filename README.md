@@ -15,3 +15,5 @@
 Saksham2k3s/Saksham2k3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saksham2k3s&exclude_days=Sat&type=png)](https://git.io/streak-stats)
